@@ -1,0 +1,19 @@
+.image-card {
+  width: 100px;
+  margin: 10px;
+}
+.thumbnail-img {
+  width: 100%;
+}
+.image-btn {
+  background-color: transparent;
+  border-style: none;
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .image-card {
+    width: 300px;
+    margin: 10px;
+  }
+}

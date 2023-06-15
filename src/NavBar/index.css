@@ -1,0 +1,35 @@
+.navbar-container {
+  list-style-type: none;
+  padding-inline-start: 0px;
+  background-color: #2c0e3a;
+  color: #ffffff;
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: Roboto;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.logo-item {
+  flex-grow: 1;
+}
+.website-logo {
+  margin-right: auto;
+  width: 150px;
+}
+.timer-img {
+  width: 25px;
+}
+.score {
+  color: #fec653;
+  font-size: 20px;
+  margin-right: 15px;
+}
+.timer {
+  color: #fec653;
+  font-size: 20px;
+}
